@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "expo-router": "^6.0.21"
+  },
+  "devDependencies": {
+    "@types/react": "~19.1.10",
+    "eslint": "^9.0.0",
+    "eslint-config-expo": "~10.0.0",
+    "typescript": "~5.9.2"
+  },
+  "scripts": {
+    "lint": "expo lint"
+  }
+}
