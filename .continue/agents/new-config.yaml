@@ -11,7 +11,7 @@
 #   - name: my gpt-5
 #     provider: openai
 #     model: gpt-5
-#     apiKey: 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
+#     wH-Af3el4AMJz1tapHrbeAKqCb9yhAXJsYJO_aIpazo9Si9RR5gNkl8zU713gQ3nsA
 #   - uses: ollama/qwen2.5-coder-7b
 #   - uses: anthropic/claude-4-sonnet
 #     with:
